@@ -23,7 +23,7 @@ header_info
 echo -e "Loading..."
 APP="ErsatzTV"
 var_disk="5"
-var_cpu="2"
+var_cpu="4"
 var_ram="4096"
 var_os="ubuntu"
 var_version="24.04"
